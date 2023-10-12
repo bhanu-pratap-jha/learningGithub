@@ -17,3 +17,5 @@ After adding and commiting new changes if we execute command "git status" it wil
 
 //Push --> upload locAL repo to the remote repo
 git push origin main
+
+"Never ever forget to commit chnages before adding as it will not result in any changes."

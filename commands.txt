@@ -1,7 +1,4 @@
-# learningGithub
-I am learning about git and github &amp; how to use it.
-Author-BhanuPratapJha
-<div>
+
 git clone githublink : cloning a repository on our local machine.
 git status  : displays the state of the code
 
@@ -20,4 +17,3 @@ After adding and commiting new changes if we execute command "git status" it wil
 
 //Push --> upload locAL repo to the remote repo
 git push origin main
-</div>
